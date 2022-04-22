@@ -1,9 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Title
+# TDD project
 
-> Description of the project
-
+> In this project you will implement a class with some methods, but you will do it by doing test-driven development (TDD).
 
 ## Built With
 
@@ -11,12 +10,13 @@
 - 💓
 
 # Get Started
+
 To get a local copy up and running follow these simple steps.
 
 ```bash
-$ git clone https://github.com/omarsalem7/{ruby-name}
-$ cd {ruby-name}
-$ bundle install 
+$ git clone https://github.com/omarsalem7/TDD-Project.git
+$ cd TDD-Project
+$ bundle install
 ```
 
 ## Authors
@@ -27,12 +27,17 @@ $ bundle install
 - Twitter: [Omar Salem](https://twitter.com/Omar80491499)
 - LinkedIn: [Omar Salem](https://www.linkedin.com/in/omar-salem-a6945b177/)
 
+👤 **Vahan Khachvankian**
+
+- GitHub: [@githubhandle](https://github.com/Gegardus)
+- Twitter: [@twitterhandle](https://twitter.com/Gegardus)
+- LinkedIn: [@linkedinhandle](https://www.linkedin.com/in/vahan-khachvankian)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/omarsalem7/TDD-Project/issues).
 
 ## Show your support
 
