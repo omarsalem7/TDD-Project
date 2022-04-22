@@ -10,7 +10,7 @@ class Solver
   end
 
   def fizzbuzz(num)
-    return 'fizzbuzz' if (n % 3).zero? && (n % 5).zero?
+    return 'fizzbuzz' if (num % 3).zero? && (num % 5).zero?
     return 'fizz' if (num % 3).zero?
     return 'buzz' if (num % 5).zero?
 
